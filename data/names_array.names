@@ -23,5 +23,22 @@
  'peak-rpm',
  'city-mpg',
  'highway-mpg',
- 'price'
+ 'price`'
  ]
+
+[
+'symboling         ', 
+' num-of-doors     ',  
+' wheel-base       ',  
+' length           ',  
+' width            ',  
+' height           ',  
+' curb-weight      ',  
+' num-of-cylinders ',  
+' engine-size      ',  
+' compression-ratio',  
+' horsepower       ',  
+' peak-rpm         ',  
+' city-mpg         ',  
+' highway-mpg      ',  
+' price            ']
